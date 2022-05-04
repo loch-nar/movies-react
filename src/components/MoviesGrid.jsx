@@ -1,5 +1,5 @@
 import {useEffect, useState} from "react";
-import {useQuery} from "../hooks/useQuery";
+// import {useQuery} from "../hooks/useQuery";
 import {get} from "../utils/httpClient";
 import {MovieCard} from "./MovieCard";
 import {Spinner} from "../components/Spinner";

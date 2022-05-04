@@ -2,7 +2,7 @@
 import {useEffect, useState} from "react";
 import {useParams} from "react-router";
 import {get} from "../utils/httpClient";
-import movie from "./movie.json";
+// import movie from "./movie.json";
 import {Spinner} from "../components/Spinner";
 import styles from "./MovieDetails.module.css";
 import {getMovieImg} from "../utils/getMovieImg";

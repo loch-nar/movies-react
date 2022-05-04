@@ -1,6 +1,6 @@
 import {FaSearch} from "react-icons/fa";
 import styles from "./Search.module.css";
-import {useEffect, useState} from "react"; 
+// import {useEffect, useState} from "react"; 
 import {useHistory} from "react-router";
 import {useQuery} from "../hooks/useQuery";
 
